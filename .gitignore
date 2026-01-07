@@ -1,0 +1,25 @@
+# Ignore YOLO model weights
+*.weights
+
+# Ignore large ML files
+*.h5
+*.pt
+*.onnx
+
+# Ignore datasets
+/data
+/dataset
+/datasets
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+# Ignore YOLO / ML model files
+*.weights
+*.pt
+*.h5
+*.onnx
