@@ -1,7 +1,7 @@
 # Smart_Servillance_System_with_real-time_alerts
 
 ## Introduction
-The Smart Surveillance System with Real-Time Alerts is a real-time security monitoring solution designed to detect suspicious activities and immediately notify users. The system focuses on live video monitoring and intelligent event detection without relying on database storage, making it lightweight and efficient.
+The *Smart Surveillance System with Real-Time Alerts* is a real-time security monitoring solution designed to detect suspicious activities and immediately notify users. The system focuses on live video monitoring and intelligent event detection without relying on database storage, making it lightweight and efficient.
 
 It is suitable for homes, offices, campuses, and public areas where quick response and continuous surveillance are required.
 
@@ -74,4 +74,4 @@ It is suitable for homes, offices, campuses, and public areas where quick respon
 
 ## Conclusion
 
-The Smart Surveillance System with Real-Time Alerts offers an efficient and intelligent approach to security monitoring without the complexity of database management. By focusing on real-time processing and instant alerts, the system ensures quick threat detection and immediate response, making it a practical and reliable surveillance solution.
+The *Smart Surveillance System with Real-Time Alerts* offers an efficient and intelligent approach to security monitoring without the complexity of database management. By focusing on real-time processing and instant alerts, the system ensures quick threat detection and immediate response, making it a practical and reliable surveillance solution.
